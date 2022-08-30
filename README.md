@@ -10,6 +10,8 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 3. [The Image Filtering Microservice](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
 
 ## Tasks
+MY_URL: http://localhost:8082/test/?URL=https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Verschiedenfarbige_Schwertlilie_%28Iris_versicolor%29-20200603-RM-100257.jpg/1280px-Verschiedenfarbige_Schwertlilie_%28Iris_versicolor%29-20200603-RM-100257.jpg
+
 
 ### Setup Node Environment
 
